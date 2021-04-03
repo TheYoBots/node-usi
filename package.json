@@ -1,5 +1,5 @@
 {
-  "name": "node-usi",
+  "name": "usi",
   "version": "0.0.1",
   "main": "lib/index.js",
   "author": "deflis <deflis@gmail.com>",
@@ -20,5 +20,18 @@
     "@types/node": "^10.0.3",
     "ts-node": "^6.0.2",
     "typescript": "^2.8.3"
-  }
+  },
+  "description": "Node.js implementation of the USI Protocol.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheYoBots/node-usi.git"
+  },
+  "keywords": [
+    "Node.js",
+    "USI"
+  ],
+  "bugs": {
+    "url": "https://github.com/TheYoBots/node-usi/issues"
+  },
+  "homepage": "https://github.com/TheYoBots/node-usi#readme"
 }
